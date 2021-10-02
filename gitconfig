@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = camille.lgrr@gmail.com
+	name = Camille LAGUERRE
